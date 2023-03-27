@@ -17,7 +17,10 @@
   publisher={Elsevier}
 }
 ```
- 
+### Reference: 
+
+https://github.com/HappyBoy-cmd/fault_diagnosis_signal_processing
+
 
 # Contact
 - **Chao He**
